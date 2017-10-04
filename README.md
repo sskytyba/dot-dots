@@ -7,7 +7,7 @@ This dot files config is available as [Ellipsis][Ellipsis] package.
 
 #### Ellipsis
 ``` shell
-    ellipsis install kulynyak/dot-dots
+    ellipsis install sskytyba/dot-dots
 ```
 
 ## Maintain
